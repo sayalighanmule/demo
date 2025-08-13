@@ -8,7 +8,7 @@ public class Test {
 	}
    public void m1()
 	{
-       System.out.pritln("This is m1 method");
+       System.out.println("This is m1 method");
    }
    public void m3()
 	{
